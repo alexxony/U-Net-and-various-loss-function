@@ -7,3 +7,5 @@ should be over 100 giga byte for this project. This is because checkpoint saves 
 gives more GPU capacity which allows operating code faster. It is better to upgrade
 Colab also. Also, all packages are already installed in Colab. No package installation
 is required.
+
+And there are empty files in each log and checkpoint folders. it is not used so delete them.
